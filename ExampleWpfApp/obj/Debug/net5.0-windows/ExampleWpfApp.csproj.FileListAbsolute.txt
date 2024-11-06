@@ -1,0 +1,92 @@
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.exe
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.deps.json
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.runtimeconfig.json
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.runtimeconfig.dev.json
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ref\ExampleWpfApp.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.pdb
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\DevExpress.Mvvm.UI.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\DevExpress.Mvvm.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Extras.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Platform.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Exit.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Main.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Test.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Welcome.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\App.g.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp_MarkupCompile.cache
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp_MarkupCompile.lref
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Exit.baml
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Main.baml
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Test.baml
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Welcome.baml
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.g.resources
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.AssemblyInfoInputs.cache
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.AssemblyInfo.cs
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.CoreCompileInputs.cache
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.Fody.CopyLocal.cache
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.Fody.RuntimeCopyLocal.cache
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.CopyComplete
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ref\ExampleWpfApp.dll
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.pdb
+H:\Наташа\Разработка программных модулей\Примеры\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.genruntimeconfig.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.exe
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.deps.json
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.runtimeconfig.json
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.runtimeconfig.dev.json
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\ExampleWpfApp.pdb
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\CommonServiceLocator.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\DevExpress.Mvvm.UI.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\DevExpress.Mvvm.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Extras.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.Platform.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\GalaSoft.MvvmLight.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\System.Windows.Interactivity.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\debian-x64\native\libuv.so
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\fedora-x64\native\libuv.so
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\opensuse-x64\native\libuv.so
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\osx\native\libuv.dylib
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\rhel-x64\native\libuv.so
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\win7-arm\native\libuv.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\win7-x64\native\libuv.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\bin\Debug\net5.0-windows\runtimes\win7-x86\native\libuv.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.AssemblyReference.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\MainWindow.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Exit.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Main.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Test.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Welcome.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\App.g.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp_MarkupCompile.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp_MarkupCompile.lref
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\MainWindow.baml
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Exit.baml
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Main.baml
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Test.baml
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\View\Welcome.baml
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.g.resources
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.GeneratedMSBuildEditorConfig.editorconfig
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.AssemblyInfoInputs.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.AssemblyInfo.cs
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.CoreCompileInputs.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.Fody.CopyLocal.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.Fody.RuntimeCopyLocal.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.csproj.CopyComplete
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\refint\ExampleWpfApp.dll
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.pdb
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.genruntimeconfig.cache
+U:\Голкова НВ\Разработка программных модулей\Проекты\WPF\WpfSolution-20231125T022346Z-001\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ref\ExampleWpfApp.dll
+C:\Users\volkt\Desktop\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.dll
+C:\Users\volkt\Desktop\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\refint\ExampleWpfApp.dll
+C:\Users\volkt\Desktop\WpfSolution\ExampleWpfApp\obj\Debug\net5.0-windows\ExampleWpfApp.pdb
